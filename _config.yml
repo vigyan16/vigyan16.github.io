@@ -7,7 +7,7 @@ words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 locale:             en_US
-url:                http://prouth.github.io
+url:                http://www.prahladrouth.xyz
 
 # Jekyll
 permalink:          /:title/

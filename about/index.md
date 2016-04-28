@@ -15,6 +15,6 @@ See my [profile at Linkedin](http://www.linkedin.com/in/prouth).
 
 ## Curriculum Vitae
 
-File to be uploaded in git
+Last Updated: April 2016
       
 [Download PDF](https://github.com/prouth/prouth.github.io/blob/master/CV/CV_PKR.pdf){: .btn}
