@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator>
+<link href="http://prouth.github.io/feed.xml" rel="self" type="application/atom+xml" />
+<link href="http://prouth.github.io/" rel="alternate" type="text/html" />
+<updated>2016-04-28T02:37:28-04:00</updated>
+<id>http://prouth.github.io/</id>
+<subtitle>Under Construction</subtitle>
+<entry>
+<title>“Featured Articles”</title>
+<link href="http://prouth.github.io/Featured-Publications/" rel="alternate" type="text/html" title="“Featured Articles”" />
+<published>2016-04-28T00:00:00-04:00</published>
+<updated>2016-04-28T00:00:00-04:00</updated>
+<id>http://prouth.github.io/Featured-Publications</id>
+<content type="html" xml:base="http://prouth.github.io/Featured-Publications/">&lt;h2 id=&quot;google-scholar-page&quot;&gt;Google Scholar Page&lt;/h2&gt;
+&lt;p&gt;### https://scholar.google.com/citations?user=hrzmm8UAAAAJ&amp;amp;hl=en&lt;/p&gt;
+
+</content>
+<category term="publications" />
+<category term="coverart" />
+<summary>“Preview”</summary>
+</entry>
+</feed>
