@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator>
 <link href="http://prouth.github.io/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://prouth.github.io/" rel="alternate" type="text/html" />
-<updated>2016-04-28T02:37:28-04:00</updated>
+<updated>2016-04-28T11:10:35-04:00</updated>
 <id>http://prouth.github.io/</id>
 <subtitle>Under Construction</subtitle>
 <entry>
@@ -12,8 +12,7 @@
 <published>2016-04-28T00:00:00-04:00</published>
 <updated>2016-04-28T00:00:00-04:00</updated>
 <id>http://prouth.github.io/Featured-Publications</id>
-<content type="html" xml:base="http://prouth.github.io/Featured-Publications/">&lt;h2 id=&quot;google-scholar-page&quot;&gt;Google Scholar Page&lt;/h2&gt;
-&lt;p&gt;### https://scholar.google.com/citations?user=hrzmm8UAAAAJ&amp;amp;hl=en&lt;/p&gt;
+<content type="html" xml:base="http://prouth.github.io/Featured-Publications/">&lt;h2 id=&quot;google-scholar-pagehttpsscholargooglecomcitationsuserhrzmm8uaaaajhlen&quot;&gt;&lt;a href=&quot;https://scholar.google.com/citations?user=hrzmm8UAAAAJ&amp;amp;hl=en&quot;&gt;Google Scholar Page&lt;/a&gt;&lt;/h2&gt;
 
 </content>
 <category term="publications" />
