@@ -17,4 +17,4 @@ See my [profile at Linkedin](http://www.linkedin.com/in/prouth).
 
 File to be uploaded in git
       
-[Download PDF](https://github.com/prouth/prouth.github.io/CV/CV_PKR.pdf){: .btn}
+[Download PDF](https://github.com/prouth/prouth.github.io/blob/master/CV/CV_PKR.pdf){: .btn}
