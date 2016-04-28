@@ -10,6 +10,5 @@ tag:
 comments: false
 ---
 
-## Google Scholar Page
-### https://scholar.google.com/citations?user=hrzmm8UAAAAJ&hl=en
+## [Google Scholar Page](https://scholar.google.com/citations?user=hrzmm8UAAAAJ&hl=en)
 
