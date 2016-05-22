@@ -12,10 +12,10 @@ excerpt: “List of Publications“
 
 3. Y. Park\*, Z. Liu\*, _Prahlad K. Routh\*_, C. Kuo, Y. Park, H. Tsai, J. Martinez, A. Shreve, M. Cotlet, and H.L. Wang, DNA-assisted photoinduced charge transfer between a cationic poly (phenylene vinylene) and a cationic fullerene, [**Phys. Chem. Chem. Phys.**](http://doi.org/10.1039/C5CP01309G), 17(24), **2015** 
 
-4. H. Zang, _Prahlad K. Routh_, R. Alam, M. Maye and M. Cotlet, Core size dependent hole transfer from a photo-excited CdSe/ZnS quantum dot to a conductive polymer, [Chem. Commun.](http://doi.org/10.1039/C3CC47975G)}, 50(45), **2014** [__Highlighted as journal cover paper__](http://pubs.rsc.org/en/content/articlepdf/2014/cc/c3cc47975g)
+4. H. Zang, _Prahlad K. Routh_, R. Alam, M. Maye and M. Cotlet, Core size dependent hole transfer from a photo-excited CdSe/ZnS quantum dot to a conductive polymer, [**Chem. Commun.**](http://doi.org/10.1039/C3CC47975G), 50(45), **2014** [__Highlighted as journal cover paper__](http://pubs.rsc.org/en/content/articlepdf/2014/cc/c3cc47975g)
 
 ## Manuscripts in Submission
-1. H. Zang\*, _Prahlad K. Routh\*_, Q.  Meng, M. Cotlet, Charge transfer assisted near infrared blinking emission from isolated lead sulfide/cadmium sulfide nanocrystals,  _Under Review_, 2016 {\*Equal Contribution of Authors}
+1. H. Zang\*, _Prahlad K. Routh\*_, Q.  Meng, M. Cotlet, Charge transfer assisted near infrared blinking emission from isolated lead sulfide/cadmium sulfide nanocrystals,  _Under Review_, 2016 _{\*Equal Contribution of Authors}_
 
 2. H. Liu, J. Han, C. Mcbean, C. S. Lewis, _Prahlad Kumar Routh_, M. Cotlet, and S. S. Wong, Synthesis-driven enhanced up-conversion luminescence and morphology-dependent energy transfer behavior in novel phase-tunable NaYF4:Yb,Er-based nanoscale motifs, _Under Review_, 2016
 
