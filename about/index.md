@@ -33,7 +33,7 @@ Last Updated: April 2016
 [CV]:{{site.url}}/Downloads/CV_PKR.pdf
 
 ## Featured Works
-![Figure-1]({{site.url}}/Downloads/chemcomm.png)
-![Figure-2]({{site.url}}/Downloads/adfm.jpg)
+![Figure-1]({{site.url}}/Downloads/adfm.png)
+![Figure-2]({{site.url}}/Downloads/chemcomm.png)
 
 
