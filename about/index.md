@@ -30,5 +30,4 @@ Last Updated: April 2016
 
       
 [Download PDF][CV]{: .btn}
-
 [CV]:{{site.url}}/CV/CV_PKR.pdf
