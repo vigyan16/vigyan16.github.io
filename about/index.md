@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About Prahlad
 tags: [about]
 date: 2016-05-21
@@ -37,9 +37,5 @@ Last Updated: April 2016
 ![Figure-1]({{site.url}}/Downloads/adfm.png)
 ![Figure-2]({{site.url}}/Downloads/chemcomm.png)
 
-{% capture images %}
-	{{site.url}}/Downloads/adfm.png
-	{{site.url}}/Downloads/chemcomm.png
-{% endcapture %}
-{% include gallery images=images caption=“Cover Articles” cols=2 %}
+
 
