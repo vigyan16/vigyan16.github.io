@@ -3,9 +3,28 @@
 <generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator>
 <link href="http://www.prahladrouth.xyz/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://www.prahladrouth.xyz/" rel="alternate" type="text/html" />
-<updated>2016-05-27T16:27:30-04:00</updated>
+<updated>2016-05-27T17:07:21-04:00</updated>
 <id>http://www.prahladrouth.xyz/</id>
 <subtitle>Under Construction</subtitle>
+<entry>
+<title>0D-2D Semiconducting Hybrids</title>
+<link href="http://www.prahladrouth.xyz/0D-2D-Hybrids/" rel="alternate" type="text/html" title="0D-2D Semiconducting Hybrids" />
+<published>2016-05-27T00:00:00-04:00</published>
+<updated>2016-05-27T00:00:00-04:00</updated>
+<id>http://www.prahladrouth.xyz/0D-2D-Hybrids</id>
+<content type="html" xml:base="http://www.prahladrouth.xyz/0D-2D-Hybrids/">&lt;figure&gt;
+	&lt;a href=&quot;http://pubs.acs.org/doi/abs/10.1021/acsnano.6b01538&quot;&gt;&lt;img src=&quot;{{site.url}}/Downloads/sns.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;a href=&quot;{{site.url}}/publications/&quot; title=&quot;ACS Nano Article TOC&quot;&gt;&lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Layered metal dichalcogenides (LMDs) are emerging 2D semiconductors for energy harvesting, chemical sensing and photon detection applications due to their tunable band gap with thickness, high surface-to-volume ratio and strong light-matter interactions but exhibit poor light absorption properties. On the other hand, Colloidal Quantum dots exhibit size dependent band gap properties, and high absorption cross-section over a broad light spectrum.&lt;/p&gt;
+
+&lt;p&gt;A novel 0D-2D hybrid materials combining SnS2 layers with CdSe/ZnS Qunatum Dots, can overcome the drawbacks of each materials and significantly improve system’s photon absorption capability along with  enhanced charge mobilities. Using single crystal time—resolved spectroscopy, we demonstrated that interactions between SnS2 layers are driven by Energy Transfer, as opposed to charge transfer which is associated with change on ON-times and OFF-times probability distributions.&lt;/p&gt;
+
+</content>
+<category term="publications" />
+<summary>Enhanced Absorption and Charge Mobility of 2D Materials</summary>
+</entry>
 <entry>
 <title>A Post with Images</title>
 <link href="http://www.prahladrouth.xyz/sample-post-images/" rel="alternate" type="text/html" title="A Post with Images" />
