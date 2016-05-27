@@ -28,12 +28,17 @@ Last Updated: May 2016
 
 [CV]:{{site.url}}/Downloads/CV_PKR.pdf
 
-See my complete [profile at Linkedin](http://www.linkedin.com/in/prouth).
+See complete [profile at Linkedin](http://www.linkedin.com/in/prouth).
 
 ## Featured Works
 
-![Figure-1]({{site.url}}/Downloads/adfm.png)
-![Figure-2]({{site.url}}/Downloads/chemcomm.png)
+[//]: # (![Figure-1]({{site.url}}/Downloads/adfm.png))
+[//]: # (![Figure-2]({{site.url}}/Downloads/chemcomm.png))
 
+<figure class="half">
+	<a href="http://doi.org/10.1002/adfm.201570244"><img src="{{site.url}}/Downloads/adfm.png" alt="image"></a>
+	<a href="http://pubs.rsc.org/en/content/articlepdf/2014/cc/c3cc47975g"><img src="{{site.url}}/Downloads/chemcomm.png" alt="image"></a>
+	<figcaption>Journal Coverart.</figcaption>
+</figure>
 
 

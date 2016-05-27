@@ -3,12 +3,81 @@
 <generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator>
 <link href="http://www.prahladrouth.xyz/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://www.prahladrouth.xyz/" rel="alternate" type="text/html" />
-<updated>2016-05-27T02:08:04-04:00</updated>
+<updated>2016-05-27T16:27:00-04:00</updated>
 <id>http://www.prahladrouth.xyz/</id>
 <subtitle>Under Construction</subtitle>
 <entry>
-<title>“Featured-Publications”</title>
-<link href="http://www.prahladrouth.xyz/Featured-Publications/" rel="alternate" type="text/html" title="“Featured-Publications”" />
+<title>A Post with Images</title>
+<link href="http://www.prahladrouth.xyz/sample-post-images/" rel="alternate" type="text/html" title="A Post with Images" />
+<published>2016-05-22T00:00:00-04:00</published>
+<updated>2016-05-22T00:00:00-04:00</updated>
+<id>http://www.prahladrouth.xyz/sample-post-images</id>
+<content type="html" xml:base="http://www.prahladrouth.xyz/sample-post-images/">&lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; with the appropriate &lt;code class=&quot;highlighter-rouge&quot;&gt;class&lt;/code&gt;. Each instance of &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
+
+&lt;h2 id=&quot;figures-for-images-or-video&quot;&gt;Figures (for images or video)&lt;/h2&gt;
+
+&lt;h3 id=&quot;one-up&quot;&gt;One Up&lt;/h3&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg&quot;&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;a href=&quot;http://www.flickr.com/photos/80901381@N04/7758832526/&quot; title=&quot;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&quot;&gt;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;two-up&quot;&gt;Two Up&lt;/h3&gt;
+
+&lt;p&gt;Apply the &lt;code class=&quot;highlighter-rouge&quot;&gt;half&lt;/code&gt; class like so to display two images side by side that share the same caption.&lt;/p&gt;
+
+&lt;p&gt;{% highlight html %}&lt;/p&gt;
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;img src=&quot;/images/image-filename-1.jpg&quot; alt=&quot;image&quot; /&gt;
+	&lt;img src=&quot;/images/image-filename-2.jpg&quot; alt=&quot;image&quot; /&gt;
+	&lt;figcaption&gt;Caption describing these two images.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;{% endhighlight %}&lt;/p&gt;
+
+&lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;
+	&lt;figcaption&gt;Two images.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;three-up&quot;&gt;Three Up&lt;/h3&gt;
+
+&lt;p&gt;Apply the &lt;code class=&quot;highlighter-rouge&quot;&gt;third&lt;/code&gt; class like so to display three images side by side that share the same caption.&lt;/p&gt;
+
+&lt;p&gt;{% highlight html %}&lt;/p&gt;
+&lt;figure class=&quot;third&quot;&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Caption describing these three images.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;{% endhighlight %}&lt;/p&gt;
+
+&lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Three images.&lt;/figcaption&gt;
+&lt;/figure&gt;
+</content>
+<category term="sample-post" />
+<category term="images" />
+<category term="test" />
+<summary>Examples and code for displaying images in posts.</summary>
+</entry>
+<entry>
+<title>“Featured Publications”</title>
+<link href="http://www.prahladrouth.xyz/Featured-Publications/" rel="alternate" type="text/html" title="“Featured Publications”" />
 <published>2016-04-28T00:00:00-04:00</published>
 <updated>2016-04-28T00:00:00-04:00</updated>
 <id>http://www.prahladrouth.xyz/Featured-Publications</id>

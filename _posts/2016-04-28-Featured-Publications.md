@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  “Featured-Publications”
+title:  “Featured Publications”
 date:   2016-04-28
 excerpt: “Breath Figures of Polythiophenes”
-project: true
+project: false
 image:
   feature: /Downloads/adfm.png
-tag:
-- publications
-- coverart
+tag: [publications, coverart]
 comments: false
+share: true
 ---
 
 
@@ -19,4 +18,7 @@ Prahlad’s article on novel water based patterning of conjugated polymers was p
 ![Cover Art]({{site.url}}/Downloads/adfm.png)
 
 ## [Google Scholar Page](https://scholar.google.com/citations?user=hrzmm8UAAAAJ&hl=en)
+
+
+
 
