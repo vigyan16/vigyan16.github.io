@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Brief Academic History of Prahlad
 tags: [about]
 date: 2016-05-26
