@@ -26,13 +26,15 @@ excerpt: “List of Publications“
 
 
 ## Conference Oral Presentations
-1. *Prahlad K. Routh*, T.A. Venkatesh, M. Cotlet, Self-assembled Breath Figures arrays of conjugated conducting polymers for photovoltaic applications,  American Chemical Society, March **2014**.
-2. *Prahlad K. Routh*, N. Reddy, K.C. Harikumar, A. Gandhi, Molten salt attack on Zirconia based thermal barrier coatings, International Symposium on Emerging Challenges for Metals and Materials: Engineering and Technology, 63rd Annual Technical Meet of the  Indian Institute of Metals, November **2009**.
+1. *Prahlad K. Routh*, T.A. Venkatesh, M. Cotlet, Self-assembled Breath Figures arrays of conjugated conducting polymers for photovoltaic applications,  American Chemical Society, March **2014**
+
+2. *Prahlad K. Routh*, N. Reddy, K.C. Harikumar, A. Gandhi, Molten salt attack on Zirconia based thermal barrier coatings, International Symposium on Emerging Challenges for Metals and Materials: Engineering and Technology, 63rd Annual Technical Meet of the  Indian Institute of Metals, November **2009**
 
 ## Conference Poster Presentations
 [//]: <> ( 1.  Prahlad K. Routh, H. Zang, Y. Huang, Peter Sutter, Chang-Yong Nam and Mircea Cotlet, 0D-2D Semiconducting Hybrids with Enhanced Absorption and Charge Mobility, Gordon Research Conference, June **2016**, Upton, NY.)
 
 1.  **Student Scholarship Award:** Prahlad K. Routh, H. Zang, Y. Huang, Peter Sutter, Chang-Yong Nam and Mircea Cotlet, 0D-2D Semiconducting Hybrids with Enhanced Absorption and Charge Mobility, NSLS-II CFN Users Meeting, Brookhaven National Laboratory, May **2016**, Upton, NY.
+
 1.  *Prahlad K. Routh*, Dmytro Nykypanchuk, T.A. Venkatesh, M. Cotlet, Optical and morphological characterization of large area polythiophene breath figures, Materials Research Society, December  **2015**, Boston, MA.
   
 2.  *Prahlad K. Routh* , T.A. Venkatesh, M. Cotlet, Patterning of Conjugated Polymer Thin Films by water based self-assembly, Nanoscience NY, CUNY ASRC, June   **2015**, New York City, NY
