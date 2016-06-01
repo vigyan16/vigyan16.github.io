@@ -4,7 +4,7 @@ title: Prahlad K. Routh
 tags: [about]
 date: 2016-05-26
 project: false
-feature: {{site.url}}images/Portrait-prahlad.jpg
+feature: images/Portrait-prahlad.jpg
 ---
     
 
