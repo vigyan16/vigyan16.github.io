@@ -3,9 +3,7 @@ layout: post
 title:  “Featured Publications”
 date:   2016-04-28
 excerpt: “Breath Figures of Polythiophenes”
-project: false
-image:
-  feature: /Downloads/adfm.png
+project: true
 tag: [publications, coverart]
 comments: false
 share: true
