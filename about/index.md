@@ -7,7 +7,7 @@ project: false
 share: true
 ---
     
-![Bio-Picture](http://127.0.0.1:4000/images/Portrait-prahlad-2.jpg)
+![Bio-Picture]({{site.url}}/images/Portrait-prahlad-2.jpg)
 
 [Prahlad K. Routh](http://www.prahlad.xyz) is a Materials Scientist and currently working as a Research Assistant at [Center for Functional Nanomaterials](http://www.bnl.gov/cfn/), Brookhaven National Laboratory (BNL). In that role he investigates structural, optical and electronic properties of semiconducting hybrid materials. Specifically, he examines the ultrafast dynamics (pico-seconds to nano-seconds) of photoinduced interfacial interactions between organic and inorganic nanomaterials with sensitivity down to single particle level. 
 
