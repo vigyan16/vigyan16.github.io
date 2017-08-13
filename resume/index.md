@@ -19,14 +19,15 @@ project: false
 
 ## Education
 
-|__Ph.D.__ 	 |	Stony Brook University, Stony Brook, NY																				|__2016__|
-|__M.S.__  |Stony Brook University, Stony Brook, NY 																			|__2013__|
-|__B.Tech__|Indian Institute of Technology Madras, Chennai, India 										|__2009__|
+|__Ph.D.__ 	 |	Stony Brook University, Stony Brook, NY																			|__2016__|
+|__M.S.__    |Stony Brook University, Stony Brook, NY 																			|__2013__|
+|__B.Tech__  |Indian Institute of Technology Madras, Chennai, India 										  |__2009__|
 
 ## Positions Held
 
-|__Research Assistant__| Advanced Optical Spectroscopy and Microscopy Laboratory, BNL|__2011-2016__|
-|__Teaching Assistant__| College of Engineering and Science, Stony Brook University			|__2010-2013__|
+|__Science Fellow__        | Frontiers of Science, Columbia University, NY            |__2016-Present__|
+|__Research Assistant__    | Advanced Optical Spectroscopy and Microscopy Laboratory, BNL|__2011-2016__|
+|__Teaching Assistant__    | College of Engineering and Science, Stony Brook University			|__2010-2013__|
 |__Senior Research Fellow__| Industrial Consultancy & Sponsored Research, IIT Madras				|__2009-2010__|
 
 ## Curriculum Vitae
