@@ -1,5 +1,5 @@
 ---
 layout: project
-title: Research
-excerpt: "A List of Research Posts"
+title: Blog Posts
+excerpt: "A List of Blog Posts"
 ---

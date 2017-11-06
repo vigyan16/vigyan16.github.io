@@ -1,47 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator>
-<link href="http://www.prahladrouth.xyz/feed.xml" rel="self" type="application/atom+xml" />
-<link href="http://www.prahladrouth.xyz/" rel="alternate" type="text/html" />
-<updated>2017-08-13T17:06:31-04:00</updated>
-<id>http://www.prahladrouth.xyz/</id>
-<subtitle>Lecturer | Materials Scientist | STEM Mentor | Enterpreneur</subtitle>
+<link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/atom+xml" />
+<link href="http://127.0.0.1:4000/" rel="alternate" type="text/html" />
+<updated>2017-11-06T16:37:30-05:00</updated>
+<id>http://127.0.0.1:4000/</id>
+<subtitle>STEM Mentor | Educator | Woman in Science</subtitle>
 <entry>
-<title>0D-2D Semiconducting Hybrids</title>
-<link href="http://www.prahladrouth.xyz/0D-2D-Hybrids/" rel="alternate" type="text/html" title="0D-2D Semiconducting Hybrids" />
-<published>2016-05-27T00:00:00-04:00</published>
-<updated>2016-05-27T00:00:00-04:00</updated>
-<id>http://www.prahladrouth.xyz/0D-2D-Hybrids</id>
-<content type="html" xml:base="http://www.prahladrouth.xyz/0D-2D-Hybrids/">&lt;figure&gt;
-	&lt;a href=&quot;http://pubs.acs.org/doi/abs/10.1021/acsnano.6b01538&quot;&gt;&lt;img src=&quot;{{site.url}}/Downloads/sns.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;&lt;a href=&quot;{{site.url}}/publications/&quot; title=&quot;ACS Nano Article TOC&quot;&gt;&lt;/a&gt;.&lt;/figcaption&gt;
-&lt;/figure&gt;
+<title>Transferable Skills &amp;amp; where to find them!</title>
+<link href="http://127.0.0.1:4000/Transferable-Skills/" rel="alternate" type="text/html" title="Transferable Skills &amp; where to find them!" />
+<published>2017-11-06T00:00:00-05:00</published>
+<updated>2017-11-06T00:00:00-05:00</updated>
+<id>http://127.0.0.1:4000/Transferable-Skills</id>
+<content type="html" xml:base="http://127.0.0.1:4000/Transferable-Skills/">&lt;p&gt;In today’s era of Buzz Words and Rad Ideas, “transferrable skills” is a key word that many of us hear. These are essentially skills developed in one training environment, but which can be applied in many different situations. If you are a PhD candidate like myself, such skills will be your bread and butter for all potential career paths.&lt;/p&gt;
 
-&lt;p&gt;Layered metal dichalcogenides (LMDs) are emerging 2D semiconductors for energy harvesting, chemical sensing and photon detection applications due to their tunable band gap with thickness, high surface-to-volume ratio and strong light-matter interactions but exhibit poor light absorption properties. On the other hand, Colloidal Quantum dots exhibit size dependent band gap properties, and high absorption cross-section over a broad light spectrum.&lt;/p&gt;
+&lt;p&gt;One thing that immediately comes to mind when we hear the word transferrable skills is “communication skills”. You got to learn how to talk and navigate difficult waters. This skill is key for many real-life jobs especially when you are moving up the management ladder. But that’s not the only tool in a PhD’s back-pocket. You develop time, people and conflict management skills, all of them being key down the road. Whether you have your own lab or if you are leading a team in an industry or you are helping in developing policies and advocating for science, you will need to set visions and break them down into achievable goals.&lt;/p&gt;
 
-&lt;p&gt;A novel 0D-2D hybrid materials combining SnS&lt;sub&gt;2&lt;/sub&gt; layers with CdSe/ZnS Qunatum Dots, can overcome the drawbacks of each materials and significantly improve system’s photon absorption capability along with  enhanced charge mobilities. Using single crystal time—resolved spectroscopy, we demonstrated that interactions between SnS&lt;sub&gt;2&lt;/sub&gt; layers are driven by Energy Transfer, as opposed to charge transfer which is associated with change on ON-times and OFF-times probability distributions.&lt;/p&gt;
+&lt;p&gt;Our training as scientists in graduate school teaches us many of these skills while being in the lab environment but lab is not the end of the world. There a brave new world outside our lab cocoon awaiting us full of life lessons as well as grooming grounds for leadership and storytelling skills along with providing meaningful experiences about issues relevant and important to science but not necessarily specific to your discipline.  Leading student groups can provide you with opportunities to expand your network of scientists and gaining a broader insight about progress of science fields. Often, hiring stories include the phrases along the lines of “well, I went to same gym as X and they introduced me to my next boss”.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://pubs.acs.org/doi/abs/10.1021/acsnano.6b01538&quot; class=&quot;btn btn-warning&quot;&gt;Full Text&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;The bottom line is as graduate students, we are presented with many opportunities which help us develop relevant skills for a plethora of potential careers. The first step to take is to identify your strengths, weaknesses and interests. You can be anything with a PhD but you need to identify what would you like to be with your PhD. Being a tenure-track professor is not the only option! The grad school experience can help you test different career paths and these transferrable skills make you very employable.&lt;/p&gt;
 </content>
-<category term="publications" />
-<summary>Enhanced Absorption and Charge Mobility of 2D Materials</summary>
-</entry>
-<entry>
-<title>“Featured Publications”</title>
-<link href="http://www.prahladrouth.xyz/Featured-Publications/" rel="alternate" type="text/html" title="“Featured Publications”" />
-<published>2016-04-28T00:00:00-04:00</published>
-<updated>2016-04-28T00:00:00-04:00</updated>
-<id>http://www.prahladrouth.xyz/Featured-Publications</id>
-<content type="html" xml:base="http://www.prahladrouth.xyz/Featured-Publications/">&lt;p&gt;Prahlad’s article on novel water based patterning of conjugated polymers was published in Advanced Functional Materials and was selected as Journal’s Cover art for October 7th issue.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;{{site.url}}/Downloads/adfm.png&quot; alt=&quot;Cover Art&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;google-scholar-pagehttpsscholargooglecomcitationsuserhrzmm8uaaaajhlen&quot;&gt;&lt;a href=&quot;https://scholar.google.com/citations?user=hrzmm8UAAAAJ&amp;amp;hl=en&quot;&gt;Google Scholar Page&lt;/a&gt;&lt;/h2&gt;
-
-</content>
-<category term="publications" />
-<category term="coverart" />
-<summary>“Breath Figures of Polythiophenes”</summary>
+<category term="Reflection" />
+<summary>In today’s era of Buzz Words and Rad Ideas, “transferrable skills” is a key word that many of us hear. These are essentially skills developed in one training environment, but which can be applied in many different situations. If you are a PhD candidate like myself, such skills will be your bread and butter for all potential career paths.</summary>
 </entry>
 </feed>
