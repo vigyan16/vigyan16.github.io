@@ -1,13 +1,13 @@
 # Site
-title:              Prahlad K. Routh, Ph.D.
-bio:                'Lecturer | Materials Scientist | STEM Mentor | Enterpreneur'
-description:        "Lecturer | Materials Scientist | STEM Mentor | Enterpreneur"
+title:              Shruti Sharma, PhD Candidate
+bio:                'STEM Mentor | Educator | Woman in Science'
+description:        "STEM Mentor | Educator | Woman in Science"
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/placeholder-SS.jpg'
 locale:             en_US
-url:                http://www.prahladrouth.xyz
+url:                http://127.0.0.1:4000
 
 # Jekyll
 permalink:          /:title/
@@ -36,12 +36,12 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:		    prahladkrouth@gmail.com
-twitter:            prahladr
-facebook:           prahlad
-github:             prouth
+email:		    shruti.sharma@stonybrook.edu
+twitter:            shrutis_2016
+facebook:           shruti2008sharma
+#github:             vig
 #stackoverflow:      123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          prouth
+linkedin:          shrutisharmasbu
 #xing:              username
 #instagram:          username
 #lastfm:             username
@@ -53,7 +53,7 @@ linkedin:          prouth
 #youtube:            username
 #soundcloud:        username
 #weibo:             username
-flickr:            prahladrouth
+#flickr:            prahladrouth
 #codepen:           username
 #keybase:           username
 
