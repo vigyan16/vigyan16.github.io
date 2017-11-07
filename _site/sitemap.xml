@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://vigyan16.github.io/Transferable-Skills/</loc>
+<loc>http://127.0.0.1:4000/Transferable-Skills/</loc>
 <lastmod>2017-11-06T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://vigyan16.github.io/404</loc>
+<loc>http://127.0.0.1:4000/404</loc>
 </url>
 <url>
-<loc>https://vigyan16.github.io/</loc>
+<loc>http://127.0.0.1:4000/</loc>
 </url>
 <url>
-<loc>https://vigyan16.github.io/tags/</loc>
+<loc>http://127.0.0.1:4000/tags/</loc>
 </url>
 <url>
-<loc>https://vigyan16.github.io/publications/</loc>
+<loc>http://127.0.0.1:4000/publications/</loc>
 </url>
 <url>
-<loc>https://vigyan16.github.io/projects/</loc>
+<loc>http://127.0.0.1:4000/projects/</loc>
 </url>
 <url>
-<loc>https://vigyan16.github.io/about/</loc>
+<loc>http://127.0.0.1:4000/about/</loc>
 </url>
 </urlset>
