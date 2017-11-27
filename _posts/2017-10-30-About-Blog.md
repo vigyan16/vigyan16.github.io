@@ -13,4 +13,4 @@ mathjax: true
 
 Greetings from the Brook!
 
-This Blog will the primary interface for my SciComm efforts. Here I will share my ideas, hopes and dreams for STEAM outreach. I hope to hear your creative ideas as well.
+This Blog will be the primary interface for my SciComm efforts. Here I will share my ideas, hopes and dreams for STEAM outreach. I hope to hear your creative ideas as well.
